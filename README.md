@@ -1,3 +1,3 @@
 # follow-card
 
-Tarjeta de "follow" en la red social X.
+Componente de una tarjeta de "follow" en la red social X.
