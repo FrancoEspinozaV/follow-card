@@ -1,3 +1,3 @@
 # follow-card
 
-Tarjeta de seguir de la plataforma Twitter
+Tarjeta de "follow" en la red social X.
