@@ -1,3 +1,3 @@
-# follow-card
+# Tarjeta Seguir
 
-Tarjeta de "follow" en la red social X.
+Tarjeta de "seguir" en la red social X.
